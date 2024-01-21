@@ -269,7 +269,7 @@ public class Laby2
             Console.WriteLine($"Średni czas oczekiwania: {averageWaitTime} minut");
         }
     }
-        public class zadanie5
+    public class zadanie5
         {
             
                 private static int numberOfWashStations=2;
